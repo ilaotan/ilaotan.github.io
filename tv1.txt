@@ -141,12 +141,12 @@ CCTV-4K超清,http://117.148.187.83/PLTV/88888888/224/3221226758/index.m3u8
 新疆卫视,http://223.110.247.161:6610/gitv/live1/G_XINJIANG/G_XINJIANG
 新疆卫视,http://101.71.255.229:6610/zjhs/2/10050/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 地方频道,#genre#
-青岛QTV-1,http://video11.qtv.com.cn/anti-theft-live/qtv1-sd/manifest.m3u8?key=ZmE5NzMwOGYyZTQ0MjBmODNmMGRmYjAxNTA1Yzg4OTU7PFBDXgUEUkpQR1sBBFNHVUReBgRW
-青岛QTV-2,http://video11.qtv.com.cn/anti-theft-live/qtv2-sd/manifest.m3u8?key=ZWU0Yzc4NWE0Yzk3ZmFjOWRiNGU3NTUyZjFhYzM1ZmU7PFBDXgUEUkpQR1YBBFNHVUReBgRb
-青岛QTV-3,http://video11.qtv.com.cn/anti-theft-live/qtv3-sd/manifest.m3u8?key=ZmZkNWMwYmI1ODNjMGY1ZTk0Y2M0ZWM5ZmJkMTg5YTU7PFBDXgUEUkpQR1YBBFNHVUReBgRb
-青岛QTV-4,http://video11.qtv.com.cn/anti-theft-live/qtv4-sd/manifest.m3u8?key=NmQ5ODE0MjA4MDIyY2RiYWM5NGQ2MjM5YjZkNDA3MTc7PFBDXgUEUkpQR1sBBFNHVUReBgRW
-青岛QTV-5,http://video11.qtv.com.cn/anti-theft-live/qtv5-sd/manifest.m3u8?key=Yjk2YTMyZjBiMDNiNjU0MmNkOWFmYjdjMDhlM2ZmNDQ7PFBDXgUEUkpQR1oBBFNHVUReBgRX
-青岛QTV-6,http://video11.qtv.com.cn/anti-theft-live/qtv6-sd/manifest.m3u8?key=YjY1NjM0YTZlZTczNGJkZjliMDY4NzgyZDk0NzNmZjM7PFBDXgUEUkpQR1YBBFNHVUReBgRb
+青岛QTV-1,http://video11.qtv.com.cn/anti-theft-live/qtv1at/manifest.m3u8?key=OGE1ZmVkNTYyY2Y1NjU4ZDRjNmY0ZWExNjU0NThlNGYsK1BDWgcJWkVQRV8BBFdFWUZfBwJS
+青岛QTV-2,http://video11.qtv.com.cn/anti-theft-live/qtv2at/manifest.m3u8?key=OGZkMDdlYmRlNmFkMDcyMzgxNmNjOGJiNmJhYTA2MTUsK1BDWgcJWkVQRV4BBFdFWUZfBwJT
+青岛QTV-3,http://video11.qtv.com.cn/anti-theft-live/qtv3at/manifest.m3u8?key=YzMwNDAyN2FlNWIwY2E2MzYzMTBiN2M2M2FmMjNkMDYsK1BDWgcJWkVQRV4BBFdFWUZfBwJT
+青岛QTV-4,http://video11.qtv.com.cn/anti-theft-live/qtv4at/manifest.m3u8?key=ZWUzZmJkNjYxZDU2YWQ5ZGY2NjRmZmE1OTViZGQ5MGIsK1BDWgcJWkVQRV0BBFdFWUZfBwJQ
+青岛QTV-5,http://video11.qtv.com.cn/anti-theft-live/qtv5at/manifest.m3u8?key=ODY0ZWI3ZDRkYmY0ZDIxNjAzNmM3NWYxNTRlM2FlN2YsK1BDWgcJWkVQRV0BBFdFWUZfBwJQ
+青岛QTV-6,http://video11.qtv.com.cn/anti-theft-live/qtv6at/manifest.m3u8?key=YWM1MDM5NzQ3OWY4OGNhOGM0Nzg3OWRmYzAwNDIxYTgsK1BDWgcJWkVQRVwBBFdFWUZfBwJR
 青岛城阳,http://pili-live-hls.56.i2863.com/i2863-56/live_56_307317.m3u8
 浙江 Ⅰ 浙江钱江,http://hw-m-l.cztv.com/channels/lantian/channel02/1080p.m3u8?k=ace136d16e3700972b06cca5316b34d8&t=1577153432
 浙江 Ⅰ 浙江经视,http://yd-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8?k=3bc164885721feecc386b066a39b8567&t=1577153471
