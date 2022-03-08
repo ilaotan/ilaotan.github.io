@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugins>
-  <plugin id="com.sonli.p3c.smartfox" url="https://ilaotan.com/files/Java_Coding_Guidelines-for-Sonli-2.1.1.2.zip" version="2.1.1.2">
+  <plugin id="com.sonli.p3c.smartfox" url="https://ilaotan.github.io/files/Java_Coding_Guidelines-for-Sonli-2.1.1.2.zip" version="2.1.1.2">
         <idea-version since-build="183.4284"/>
         <name>Java Coding Guidelines-self</name>
         <vendor url="https://ilaotan.github.io">https://ilaotan.github.io</vendor>
