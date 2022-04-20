@@ -10,11 +10,12 @@ http://ilaotan.github.io/updatePlugins.xml
 ```
  nginx
  
- location /jetbrains/plugin {
+  location /jetbrains/plugin {
     alias /usr/local/jetbrain_plugins;
     index welcome.html;
+    if ($query_string ~* "build=") {rewrite ^/(.*)  http://$host/jetbrains/plugin/updatePlugins.xml? permanent;
+      }
   }
- 做的高级点就判断下build参数, 有build参数时,跳转到xml文件  /jetbrains/plugin/?build=IU-213.7172.25
  
 ```
 
